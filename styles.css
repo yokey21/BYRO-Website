@@ -6,6 +6,7 @@
 
 body {
     margin: 0px;
+    background-color: white;
 }
 
 h2 {
@@ -103,7 +104,7 @@ div.gallery {
 }
 
 #navbar a:hover {
-    color: greenyellow;
+    color: #FF7800;
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
@@ -114,7 +115,7 @@ div.gallery {
 }
 
 #footer {
-    background-color: greenyellow;
+    background-color: #FF7800;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -124,7 +125,7 @@ div.gallery {
 
 /* puts footer at bottom if there isnt enough content to fill screen */
 #footerAbsolute {
-    background-color: greenyellow;
+    background-color: #FF7800;
     position: absolute;
     bottom: 0;
     width: 100%;
